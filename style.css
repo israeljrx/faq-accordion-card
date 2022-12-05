@@ -96,13 +96,14 @@ main{
   cursor: pointer;
 }
 
-.faq article header h1{
+.faq article header h2{
   font-weight: 400;
   margin-bottom: 1rem;
   font-weight: 700;
+  font-size: 12px;
 }
 
-.faq article header h1:hover{
+.faq article header h2:hover{
   color: var(--softred);
 }
 

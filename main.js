@@ -1,6 +1,6 @@
 const headerFaqs = document.querySelectorAll('article header');
 const paragraphAnswer = document.querySelectorAll('article p');
-const titleFaqs = document.querySelectorAll('article header h1');
+const titleFaqs = document.querySelectorAll('article header h2');
 const arrowTitle = document.querySelectorAll('article header img');
 
 function toggleAnswer(index) {
